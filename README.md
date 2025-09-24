@@ -39,12 +39,12 @@
 
 ---
 
-### 🔗 Connect With Me
-<p align="center">
-  <a href="https://linkedin.com/in/its-allen><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-  <a href="https://its-allen"><img src="https://skillicons.dev/icons?i=devto" /></a>
-  <a href="mailto:amiralikhezran@gmail.com><img src="https://skillicons.dev/icons?i=gmail" /></a>
-</p>
+## 📬 Connect with me
+
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/khodeallen)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/_khodealen_)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amiralikhezran@gmail.com)
+
 
 ---
 ⭐️ From [Allen](https://github.com/its-allen)
