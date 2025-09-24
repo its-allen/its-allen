@@ -19,9 +19,8 @@
 ---
 
 ### 📌 Featured Projects
-🌟 [**Portfolio Website**](https://github.com/its-allen/portfolio) – My personal website with Next.js & TailwindCSS  
-🛒 [**E-commerce App**](https://github.com/its-allen/ecommerce-app) – Full-stack store with cart & payment integration  
-📝 [**Blog CMS**](https://github.com/its-allen/blog-cms) – Content management system with authentication  
+🌟 [**Social Hover Icon**](https://github.com/its-allen/social-hover-icons) – Animated social media icons with hover effects (Telegram, Instagram, YouTube, Twitter, GitHub)
+
 
 ---
 
